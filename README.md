@@ -38,3 +38,8 @@ Firebase Auth: Gestión de sesiones para que el freelance gestione sus tours.
 Firebase Hosting: Despliegue rápido de la aplicación.
 
 Integraciones: API externa de cruceros y Chatbot basado en IA.
+
+
+- LOGIN
+  <img width="885" height="558" alt="image" src="https://github.com/user-attachments/assets/f0c57565-ae0a-42cf-bcc6-28538d5c4faf" />
+
