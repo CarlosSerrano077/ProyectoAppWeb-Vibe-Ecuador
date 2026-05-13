@@ -1,7 +1,7 @@
 # ProyectoAppWeb-Vibe-Ecuador
 Proyecto para la materia de Aplicaciones Web 
 
-- Introducción y Problemática
+## Introducción y Problemática
 
 DESARROLLO DE UNA PLATAFORMA WEB INTEGRADA CON IA Y SERVICIOS EXTERNOS PARA LA GESTIÓN Y COMERCIALIZACIÓN DE PAQUETES TURÍSTICOS PERSONALIZADOS EN ECUADOR Y GALÁPAGOS.
 
@@ -11,7 +11,7 @@ El Problema: La dificultad de gestionar reservas de cruceros externos de forma m
 
 Necesidad: Una ventana única que centralice ofertas propias y de terceros (Galápagos).
 
-- Objetivo del Proyecto
+## Objetivo del Proyecto
 
 General: Desarrollar una aplicación web robusta que sirva como canal de ventas y asesoramiento automatizado para servicios turísticos a nivel nacional.
 
@@ -23,23 +23,50 @@ Implementar un chatbot con IA para mejorar la experiencia de usuario.
 
 Crear una interfaz administrativa para la gestión de paquetes propios.
 
-- Herramientas utilizadas
+## Descripción
 
-Figma para el desarrollo del mockup para un diseño previo de lo que sera nuestro proyecto.
+Vibes Ecuador es una plataforma web para una persona freelance que vende programas de viajes nacionales e internacionales.
 
-Frontend: React.js con Tailwind CSS (Interfaz moderna y adaptativa).
+## Tecnologías utilizadas
 
-Backend & Base de Datos: Firebase.
+- React + Vite
+- Node.js
+- Express
+- Firebase Authentication
+- Firebase Admin SDK
+- HTML
+- CSS
+- JavaScript
 
-Firestore: Base de datos NoSQL en tiempo real para los paquetes de viajes.
+## Funcionalidades implementadas
 
-Firebase Auth: Gestión de sesiones para que el freelance gestione sus tours.
+- Pantalla de inicio de sesión
+- Registro de usuarios
+- Conexión del frontend con backend
+- Autenticación con Firebase
+- Registro de usuarios en Firebase Authentication
 
-Firebase Hosting: Despliegue rápido de la aplicación.
+## Estructura del proyecto
 
-Integraciones: API externa de cruceros y Chatbot basado en IA.
+```txt
+backend/
+  firebase.js
+  index.js
+  package.json
+
+frontend/
+  src/
+    pages/
+      login.jsx
+    App.jsx
+    App.css
+    index.css
 
 
-- LOGIN
-  <img width="885" height="558" alt="image" src="https://github.com/user-attachments/assets/f0c57565-ae0a-42cf-bcc6-28538d5c4faf" />
+Imágenes de funcionamiento:
+<img width="1113" height="727" alt="image" src="https://github.com/user-attachments/assets/93218216-248a-432f-b6f4-20142ec9d52d" />
+<img width="1600" height="907" alt="image" src="https://github.com/user-attachments/assets/530f2732-0b4f-478b-8df2-0bae62eb68c9" />
+
+
+
 
