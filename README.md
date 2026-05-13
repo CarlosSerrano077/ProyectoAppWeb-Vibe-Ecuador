@@ -48,7 +48,6 @@ Vibes Ecuador es una plataforma web para una persona freelance que vende program
 
 ## Estructura del proyecto
 
-```txt
 backend/
   firebase.js
   index.js
