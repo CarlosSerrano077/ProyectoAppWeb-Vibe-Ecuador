@@ -62,7 +62,7 @@ frontend/
     index.css
 
 
-Imágenes de funcionamiento:
+## Imágenes de funcionamiento:
 <img width="1113" height="727" alt="image" src="https://github.com/user-attachments/assets/93218216-248a-432f-b6f4-20142ec9d52d" />
 <img width="1600" height="907" alt="image" src="https://github.com/user-attachments/assets/530f2732-0b4f-478b-8df2-0bae62eb68c9" />
 
